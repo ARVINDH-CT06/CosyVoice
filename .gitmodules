@@ -1,3 +1,7 @@
+# Git Submodule Configuration for Matcha-TTS
 [submodule "third_party/Matcha-TTS"]
-	path = third_party/Matcha-TTS
-	url = https://github.com/shivammehta25/Matcha-TTS.git
+    # Path where the submodule will be stored
+    path = third_party/Matcha-TTS
+
+    # URL of the Matcha-TTS repository
+    url = https://github.com/shivammehta25/Matcha-TTS.git
